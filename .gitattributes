@@ -1,1 +1,6 @@
 kubernetes.tar.gz filter=lfs diff=lfs merge=lfs -text
+2020_04_01_15_51_IMG_0298.MOV filter=lfs diff=lfs merge=lfs -text
+2020_04_01_15_54_IMG_0299.MOV filter=lfs diff=lfs merge=lfs -text
+2020_04_01_15_55_IMG_0300.MOV filter=lfs diff=lfs merge=lfs -text
+2020_04_01_15_58_IMG_0301.MOV filter=lfs diff=lfs merge=lfs -text
+2020_04_01_16_00_IMG_0302.MOV filter=lfs diff=lfs merge=lfs -text
